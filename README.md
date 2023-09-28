@@ -4,9 +4,13 @@ For this problem statement, I used the librosa library to analyze the given audi
 
 ## Organisation of the Repository:
 
-- The source code for the given problem statement is given in folder [src\](./src), wherein you could find the Python notebook that could be run in a single click by clicking on the Google Colab option.
-- The data for this problem statement could not be uploaded directly, owing to the large size, but the link has been provided in the [audio\](./audio) folder.
+- The source code for the given problem statement is given in folder ['src\'](./src), wherein you could find the Python notebook that could be run in a single click by clicking on the Google Colab option.
+- The data for this problem statement could not be uploaded directly, owing to the large size, but the link has been provided in the ['audio\'](./audio) folder.
 - The requirements are specified in the [requirements.txt](requirements.txt) file.
+The requirements could be installed using the following command:
+```
+pip install -r requirements.txt
+```
 
 ## Approach
 
