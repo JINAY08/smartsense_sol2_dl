@@ -1,5 +1,7 @@
 # SmartSense Assessment-2
 
+(By: Jinay Dagli)
+
 For this problem statement, I used the librosa library to analyze the given audios (podcasts) and the common Deepgram API for achieving the purpose. 
 
 ## Organisation of the Repository:
