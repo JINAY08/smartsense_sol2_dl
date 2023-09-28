@@ -21,3 +21,12 @@ And when using the paragraphs, the transcript could be amazingly printed. I also
 ## Results 
 
 Some of the results, including waveforms of the audio, frequency plots, and examples of sentences are being shown below:
+
+Audio Wave for Podcast-1:
+![audio_wave](https://github.com/JINAY08/smartsense_sol2_dl/blob/main/images/audio_wave.png)
+
+A snap from the transcript of Podcast-1:
+![para](https://github.com/JINAY08/smartsense_sol2_dl/blob/main/images/para.png)
+
+Frequency Plot showing commonly used words in Podcast-1:
+![freq](https://github.com/JINAY08/smartsense_sol2_dl/blob/main/images/freq.png)
