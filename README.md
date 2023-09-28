@@ -34,4 +34,5 @@ A snap from the transcript of Podcast-1:
 Frequency Plot showing commonly used words in Podcast-1:
 
 ![freq](https://github.com/JINAY08/smartsense_sol2_dl/blob/main/images/freq.png)
+
 }
